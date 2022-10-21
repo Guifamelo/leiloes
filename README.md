@@ -12,6 +12,15 @@
   <h3 align="center">Data of Agamotto</h3>
 
 </div>
+<br />
+<div align="center">
+  <a href="https://github.com/claimfy/cfy-infinity-arc">
+    <img src="[![New Piskel-1 png](https://user-images.githubusercontent.com/72390876/197232766-9380b7ff-4d55-4e7b-bb69-67f0a28da15c.png)](https://github.com/Guifamelo/auto-pecas/issues/1#issue-1418517488)" alt="Logo" width="80" height="60">
+  </a>
+
+  <h3 align="center">Data of Agamotto</h3>
+
+</div>
 
 ## Description
 
